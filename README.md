@@ -12,11 +12,11 @@ I thrive where clarity, reliability, and transformation matter.
 
 ## 🧩 About Me
 
-- Architect‑level engineer with deep experience in **.NET, C#, Azure, CI/CD, and distributed systems**
+- Architect‑level engineer with deep experience in .NET, C#, Azure, CI/CD, and distributed systems
 - Specialist in **solutioneering**, **implementation delivery**, and **cross‑team technical leadership**
-- Creator of **offline‑first**, **cloud**, and **high‑reliability** systems
+- Creator of offline‑first, cloud, and high‑reliability systems
 - Passionate about building high‑impact, high‑value platforms
-- Always drawn back to the fun of **hands‑on .NET development**
+- Always drawn back to the fun ofhands‑on .NET development
 
 ---
 
