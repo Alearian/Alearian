@@ -16,7 +16,7 @@ I thrive where clarity, reliability, and transformation matter.
 - Passionate about building high impact high value systems
 - Always drawn back to the fun of **hands‑on .NET development** 
 
----
+--- 
 
 ## 🚀 Technical Skills
 
@@ -69,8 +69,29 @@ I thrive where clarity, reliability, and transformation matter.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alearian&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alearian&layout=compact&theme=tokyonight" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Alearian&show_icons=true&theme=tokyonight&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Alearian&show_icons=true&theme=default&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alearian&show_icons=true&count_private=true" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alearian&layout=compact&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alearian&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alearian&layout=compact" />
+  </picture>
 </p>
 
 ---
