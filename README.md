@@ -3,7 +3,7 @@
 ## Architect‑Level Engineer • Hands‑On .NET Developer • Systems Thinker
 
 I design and build reliable, scalable, and maintainable systems — both in software and in people.  
-My work spans high‑impact engineering, cross‑team leadership, and structured, exegetical preaching.  
+My work spans high‑impact engineering, cross‑team leadership and implementation delivery.  
 I thrive where clarity, reliability, and transformation matter.
 
 ---
@@ -11,9 +11,10 @@ I thrive where clarity, reliability, and transformation matter.
 ## 🧩 About Me
 
 - Architect‑level engineer with deep experience in **.NET, C#, Azure, CI/CD, and distributed systems**
-- Specialist in **payments**, **reliability engineering**, and **cross‑team technical leadership**
-- Builder of **offline‑first**, **hardware‑integrated**, and **high‑reliability** systems
-- Passionate about returning to **hands‑on .NET development** and building high‑quality software
+- Specialist in **solutioneering**, **implementation devlivery**, and **cross‑team technical leadership**
+- Creator of **offline‑first** to **cloud** and **high‑reliability** systems
+- Passionate about building high impact high value systems
+- Always drawn back to the fun of **hands‑on .NET development** 
 
 ---
 
