@@ -4,7 +4,7 @@
 ## Architect‑Level Engineer • Hands‑On .NET Developer • Systems Thinker
 I'm a friendly solution creator. Experienced and skillful across a range of areas : 
 
-Architecture. Solutions. Design. Integration. Data. Creative. Agile. Mentor.  Scrum-master. Technical Communicator. . Product-Owner. Organiser. Manager. Leader. 
+Architecture. Solutions. Design. Integration. Data. Creative. Agile. Mentor.  Scrum-master. Technical Communicator. Product-Owner. Organiser. Manager. Leader. 
 I love creating reliable, scalable, and maintainable systems - software, processes and people.  
 
 My experience spans high‑impact software engineering, cross‑team leadership and implementation delivery.  
