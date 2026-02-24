@@ -30,6 +30,7 @@ I thrive where clarity, reliability, and transformation matter.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-AE1F63?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🔧 Tools & Practices
 - Modular, versioned system design  
@@ -42,27 +43,16 @@ I thrive where clarity, reliability, and transformation matter.
 
 ---
 
-## 🌟 Featured Project: Unified Pixel Matrix Controller
+## 🌟Recent Projects
+### Unified Pixel Matrix Controller
+**A PWA‑driven LED orchestration system** designed for reliability, modularity, and real‑time performance.
+### N8N Sermon Analyser
+** File-triggered mp4/mp3 transcriber, translator, summariser and topifier.
+### 🔹 WRM — Web Relationship Manager
+A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema. 
+- **NuGet:** https://www.nuget.org/packages/WRM
+- **Source:** https://github.com/Alearian/WRM
 
-**An offline‑first, PWA‑driven LED orchestration system** designed for reliability, modularity, and real‑time performance.
-
-### 🔹 Key Features
-- PWA orchestrator with **IndexedDB master map**
-- Local MQTT broker (**Mosquitto on Raspberry Pi**, WebSockets on port 9001)
-- ESP32‑based controllers with **OTA updates** and **signed firmware**
-- JSON‑schema portable config (groups, controllers, scenes)
-- Coordinate mapper:  
-  `(x, y) → global_index → (controller_id, local_index)`
-- Rendering pipeline:  
-  canvas rasterization → downsample → per‑controller slicing → compression (RLE/LZ4)
-- Adaptive FPS, rate‑limiting, and power budgeting
-- Telemetry, monitoring, and import/export `.json`
-- Target: **24–30 FPS**, sync skew ≤ **50ms**
-
-### 🔹 Pilot Deployment
-- 32×32 matrix split across two ESP32 controllers  
-- Fully offline‑capable  
-- Real‑time rendering with smooth synchronization  
 
 ---
 
@@ -111,3 +101,18 @@ Whether I’m building a distributed system or preparing a sermon, I aim for the
 - **GitHub:** [github.com/Alearian](https://github.com/Alearian)
 
 ---
+## 👀 Visitor Count
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://komarev.com/ghpvc/?username=Alearian&style=for-the-badge&color=blueviolet"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://komarev.com/ghpvc/?username=Alearian&style=for-the-badge&color=blue"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://komarev.com/ghpvc/?username=Alearian&style=for-the-badge" />
+  </picture>
+</p>
