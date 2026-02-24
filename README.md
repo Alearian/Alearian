@@ -44,16 +44,13 @@ I thrive where clarity, reliability, and transformation matter.
 ---
 
 ## 🌟Recent Projects
-### Unified Pixel Matrix Controller
-**A PWA‑driven LED orchestration system** designed for reliability, modularity, and real‑time performance.
-### N8N Sermon Analyser
-** File-triggered mp4/mp3 transcriber, translator, summariser and topifier.
-### 🔹 WRM — Web Relationship Manager
+- Unified Pixel Matrix Controller
+A PWA‑driven LED orchestration system designed for reliability, modularity, and real‑time performance.
+- N8N Sermon Analyser
+File-triggered mp4/mp3 transcriber, translator, summariser and topifier.
+- WRM — Web Relationship Manager
 A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema. 
-- **NuGet:** https://www.nuget.org/packages/WRM
-- **Source:** https://github.com/Alearian/WRM
-
-
+- **NuGet:** : [https://github.com/Alearian/WRM](https://www.nuget.org/packages/Wrm/#readme-body-tab).
 ---
 
 ## 📊 GitHub Stats
@@ -90,15 +87,15 @@ A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.
 
 I’m a systems thinker who values clarity, reliability, and long‑term maintainability.  
 Whether I’m building a distributed system or preparing a sermon, I aim for the same outcome:  
-**transformation through understanding**.
+transformation through understanding.
 
 ---
 
 ## 📬 Contact Me
 
-- **Email:** davidfurniss888@gmail.com
-- **LinkedIn:** _[Add your LinkedIn profile link](https://www.linkedin.com/in/davidjfurniss/)_  
-- **GitHub:** [github.com/Alearian](https://github.com/Alearian)
+- **Email:** _davidfurniss888@gmail.com_
+- **LinkedIn:** _[davidjfurniss](https://www.linkedin.com/in/davidjfurniss/)_  
+- **GitHub:** _[github.com/Alearian](https://github.com/Alearian_
 
 ---
 ## 👀 Visitor Count
