@@ -38,10 +38,8 @@ I thrive where clarity, reliability, and transformation matter.
 - Modular, versioned system design  
 - Explicit documentation & onboarding flows  
 - Hardware/software integration  
-- Incident recovery with minimal impact  
 - Architectural diagramming & schema design  
-- Offline‑first architectures  
-- MQTT, WebSockets, IndexedDB, PWA patterns  
+- Event architectures
 
 ---
 
