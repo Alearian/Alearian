@@ -1,10 +1,7 @@
-# 👋 Hi, I'm David Furniss (Alearian)
+#  Hi, I'm David Furniss (aka Alearian)
 
 ---
-<table>
-<tr>
-<td width="50%" valign="top">
-  ## Architect‑Level Engineer • Hands‑On .NET Developer • Systems Thinker
+## Architect‑Level Engineer • Hands‑On .NET Developer • Systems Thinker
 I'm a friendly solution creator. Experienced and skillful across a range of areas : 
 
 Architecture. Solutions. Design. Integration. Data. Creative. Agile. Mentor.  Scrum-master. Technical Communicator. . Product-Owner. Organiser. Manager. Leader. 
@@ -12,15 +9,6 @@ I love creating reliable, scalable, and maintainable systems - software, process
 
 My experience spans high‑impact software engineering, cross‑team leadership and implementation delivery.  
 I thrive where clarity, reliability, and transformation matter.
-</td>
-<td width="50%" valign="top">
-  <a href="[David Furniss](https://www.linkedin.com/in/davidjfurniss/)">
-    <img src="https://img.shields.io" alt="Linked Badge"/>
-  </a>
-              
-</td>
-</tr>
-</table>
 
 ## 🧩 About Me
 
@@ -89,6 +77,7 @@ A PWA‑driven LED orchestration system designed for reliability, modularity, an
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+
 ---
 ### **Claude, Automation & AI **
 
