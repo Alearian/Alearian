@@ -43,16 +43,40 @@ I thrive where clarity, reliability, and transformation matter.
 
 ---
 
-## 🌟Recent Projects
-- Unified Pixel Matrix Controller
-A PWA‑driven LED orchestration system designed for reliability, modularity, and real‑time performance.
-- N8N Sermon Analyser
+## 🌟Recent/Current Projects
+- WRMScript:
+A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.<br/>
+**NuGet:** : [https://github.com/Alearian/WRM](https://www.nuget.org/packages/Wrm/#readme-body-tab)
+- N8N Sermon Analyser : <br/>
 File-triggered mp4/mp3 transcriber, translator, summariser and topifier.
-- WRM — Web Relationship Manager
-A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema. 
-- **NuGet:** : [https://github.com/Alearian/WRM](https://www.nuget.org/packages/Wrm/#readme-body-tab).
+- N8N Sermon Collector : <br/>
+Scheduled detection and download of new sermons from various sites. (C# microservice on docker)
+- Unified Pixel Matrix Controller : <br/>
+A PWA‑driven LED orchestration system designed for reliability, modularity, and real‑time performance. (Raspberyy Pi)
+- Revival Meeting: <br/>
+A portal website allowing members to search for and listen to collated sermons on given topics (Angular, Cloudflare, Docker)
+- Revival Camp: <br/>
+  A website allowing Convention/Event management for the Revival Fellowship (React, CoreUI)
+- ITMS<br/>
+A system allowing the data collection of roadworks, cleaning and changes around the motorway junctions near Hemel Hempstead. Collects data from National Highways. Maps, polygons and markers etc on a React website (tailwind)
+
 ---
 
+## 🧠 What Drives Me
+
+I’m a systems thinker who values clarity, reliability, and long‑term maintainability.  
+Whether I’m building a distributed system or preparing a sermon, I aim for the same outcome:  
+transformation through understanding.
+
+---
+
+## 📬 Contact Me
+
+- **Email:** _davidfurniss888@gmail.com_
+- **LinkedIn:** _[davidjfurniss](https://www.linkedin.com/in/davidjfurniss/)_  
+- **GitHub:** _[github.com/Alearian](https://github.com/Alearian_
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,22 +104,6 @@ A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alearian&layout=compact" />
   </picture>
 </p>
-
----
-
-## 🧠 What Drives Me
-
-I’m a systems thinker who values clarity, reliability, and long‑term maintainability.  
-Whether I’m building a distributed system or preparing a sermon, I aim for the same outcome:  
-transformation through understanding.
-
----
-
-## 📬 Contact Me
-
-- **Email:** _davidfurniss888@gmail.com_
-- **LinkedIn:** _[davidjfurniss](https://www.linkedin.com/in/davidjfurniss/)_  
-- **GitHub:** _[github.com/Alearian](https://github.com/Alearian_
 
 ---
 ## 👀 Visitor Count
