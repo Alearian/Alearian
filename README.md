@@ -1,7 +1,5 @@
 # 👋 Hi, I'm David Furniss (Alearian)
 
-
-
 ---
 <table>
 <tr>
@@ -16,7 +14,9 @@ My experience spans high‑impact software engineering, cross‑team leadership 
 I thrive where clarity, reliability, and transformation matter.
 </td>
 <td width="50%" valign="top">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidjfurniss" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/davidjfurniss?trk=profile-badge">David Furniss</a></div>
+  <a href="[David Furniss](https://www.linkedin.com/in/davidjfurniss/)">
+    <img src="https://img.shields.io" alt="Linked Badge"/>
+  </a>
               
 </td>
 </tr>
