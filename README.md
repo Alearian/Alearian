@@ -56,6 +56,11 @@ A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocols.io&logoColor=white)
+![JSON‑RPC](https://img.shields.io/badge/JSON--RPC-6E6E6E?style=flat-square&logo=json&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 ---
 
