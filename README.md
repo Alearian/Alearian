@@ -74,8 +74,7 @@ A PWA‑driven LED orchestration system designed for reliability, modularity, an
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 
 ---
-### **Claude, Automation & AI **
-
+### Claude, Automation & AI
 Leveraging **Claude**, **n8n**, and **custom C# microservices**, Been building automation pipelines that combine transcription, translation, summarisation, topic extraction, and workflow orchestration.
 Also:- Adding n8n skils to claude and creating MCP Servers.
 
