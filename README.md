@@ -43,7 +43,7 @@ I thrive where clarity, reliability, and transformation matter.
 
 ### **WRMScript**
 A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.  
-**NuGet:** https://www.nuget.org/packages/Wrm  
+**NuGet:** https://www.nuget.org/packages/Wrm  Version 3.3.1 Just released !!
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
