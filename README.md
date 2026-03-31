@@ -89,8 +89,8 @@ Also:- Adding n8n skils to claude and creating MCP Servers.
 ### **UK Government Design-System AI Prototyper**  
 AI skill to rapidly prototype a .gov.uk website based on the UK Government Design System (GDS).   
 
-Built for all AI systems, but only tested in Claude. I built a UK Waters Fish Stocks frontend, with various features in under an hour. 
-Also use it verify what has been built "Review this website fro compliance with the UK GDS..."
+Built for all AI systems, but only tested in Claude. I built a UK Waters Fish Stocks frontend, with various features, in under an hour. 
+Can also be used to verify existing deploymentd: e.g. "Review this website for compliance with the UK GDS..."
 
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
