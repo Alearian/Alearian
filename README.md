@@ -21,7 +21,6 @@ I thrive where clarity, reliability, and transformation matter.
 ---
 
 ## 🚀 Recent Tech
-![UK Gov](https://img.shields.io/badge/UK_Gov-1D70B8?style=flat-square&labelColor=0B0C0C&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDQ4IDQ4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCAzYy0xLjQgMC0yLjYgMS4yLTIuNiAyLjZ2LjhjLTE
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -93,7 +92,6 @@ AI skill to rapidly prototype a .gov.uk website based on the UK Government Desig
 Built for all AI systems, but only tested in Claude. I built a UK Waters Fish Stocks frontend, with various features in under an hour. 
 Also use it verify what has been built "Review this website fro compliance with the UK GDS..."
 
-![UK Gov](https://img.shields.io/badge/UK_Gov-1D70B8?style=flat-square&labelColor=0B0C0C&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDQ4IDQ4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCAzYy0xLjQgMC0yLjYgMS4yLTIuNiAyLjZ2LjhjLTE
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
 ![AI Skill](https://img.shields.io/badge/AI_Skill-6A5ACD?style=flat-square&logo=openai&logoColor=white)
