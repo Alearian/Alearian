@@ -85,6 +85,14 @@ Also:- Adding n8n skils to claude and creating MCP Servers.
 
 </td>
 <td width="50%" valign="top">
+ 
+### **UK Government Design-System AI Prototyper**  
+AI skill to rapidly prototype a .gov.uk website based on the UK Government Design System (GDS).   
+
+Built for all AI systems, but only tested in Claude. I built a UK Waters Fish Stocks frontend, with various features in under an hour. 
+Also use it verify what has been built "Review this website fro compliance with the UK GDS..."
+
+---
 
 ### **N8N Sermon Collector**
 Scheduled detection and download of new sermons from various sites.  
