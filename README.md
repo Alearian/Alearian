@@ -43,7 +43,8 @@ I thrive where clarity, reliability, and transformation matter.
 
 ### **WRMScript**
 A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.  
-**NuGet:** https://www.nuget.org/packages/Wrm  Version 3.3.1 Just released !!
+**NuGet:** https://www.nuget.org/packages/Wrm  
+Version 3.3.1 Just released !!
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -88,7 +89,7 @@ Also:- Adding n8n skils to claude and creating MCP Servers.
  
 ### **UK Government Design-System AI Prototyper**  
 AI skill to rapidly prototype a .gov.uk website based on the UK Government Design System (GDS).   
-
+https://github.com/Alearian/UK-GDS-AI-Skills   
 Built for all AI systems, but only tested in Claude. I built a UK Waters Fish Stocks frontend, with various features, in under an hour. 
 Can also be used to verify existing deploymentd: e.g. "Review this website for compliance with the UK GDS..."
 
