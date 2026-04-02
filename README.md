@@ -44,7 +44,6 @@ I thrive where clarity, reliability, and transformation matter.
 ### **WRMScript**
 A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.  
 **NuGet:** https://www.nuget.org/packages/Wrm  
-Version 3.3.1 Just released !!
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -54,6 +53,15 @@ Version 3.3.1 Just released !!
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocols.io&logoColor=white)
 ![JSON‑RPC](https://img.shields.io/badge/JSON--RPC-6E6E6E?style=flat-square&logo=json&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+---
+
+### **WRMScript Skills**
+Skills for building Data and using the Wrm Tool  
+
+![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
+![AI Skill](https://img.shields.io/badge/AI_Skill-6A5ACD?style=flat-square&logo=openai&logoColor=white)  
 
 ---
 
