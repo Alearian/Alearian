@@ -57,7 +57,7 @@ A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.
 ---
 
 ### **WRMScript Skills**
-Skills for building Data and using the Wrm Tool  
+AI Skills for building Data and using the Wrm Tool  
 
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
