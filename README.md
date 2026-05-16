@@ -1,4 +1,4 @@
-#  Hi, I'm David Furniss (aka Alearian)
+#  Hi, I'm David (aka Alearian)
 
 ---
 ## Architect‑Level Engineer • Hands‑On .NET Developer • Systems Thinker
@@ -58,6 +58,7 @@ A tool to generate RESTFul, GraphQL and MCP APIs from a PostgreSQL schema.
 
 ### **WRMScript Skills**
 AI Skills for building Data and using the Wrm Tool  
+https://github.com/Alearian/WrmScript-Skills
 
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
