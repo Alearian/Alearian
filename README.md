@@ -62,7 +62,7 @@ https://github.com/Alearian/WrmScript-Skills
 
 ![Claude](https://img.shields.io/badge/Claude-FE6A00?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A73E8?style=flat-square&logo=cursor&logoColor=white)
-![AI Skill](https://img.shields.io/badge/AI_Skill-6A5ACD?style=flat-square&logo=openai&logoColor=white)  
+![AI Skill](https://img.shields.io/badge/AI_Skill-6A5ACD?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -74,16 +74,19 @@ File-triggered mp4/mp3 transcriber, translator, summariser and topic extractor.
 
 ---
 
-### **Unified Pixel Matrix Controller**
-A PWA‑driven LED orchestration system designed for reliability, modularity, and real‑time performance.  
+### **Xmas Tree of Light**
+A 5–6 m outdoor cone Christmas tree of 3,600 addressable LEDs, controlled from a phone over Wi-Fi.  
+QuinLED Dig-Quad (ESP32) running WLED, with a C# TreeTool for config and a single-file phone app served from the board.  
+https://github.com/Alearian/Xmas-Tree-Of-Light
 
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![WLED](https://img.shields.io/badge/WLED-FFA000?style=flat-square&logo=lightning&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
+
 ### Claude, Automation & AI
 Leveraging **Claude**, **n8n**, and **custom C# microservices**, Been building automation pipelines that combine transcription, translation, summarisation, topic extraction, and workflow orchestration.
 Also:- Adding n8n skils to claude and creating MCP Servers.  
@@ -95,7 +98,7 @@ Also:- Adding n8n skils to claude and creating MCP Servers.
 
 </td>
 <td width="50%" valign="top">
- 
+
 ### **UK Government Design-System AI Prototyper**  
 AI skill to rapidly prototype a .gov.uk website based on the UK Government Design System (GDS).   
 https://github.com/Alearian/UK-GDS-AI-Skills   
